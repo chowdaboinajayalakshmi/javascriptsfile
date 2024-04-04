@@ -1,0 +1,17 @@
+div{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    text-align: center;
+    justify-content: center;
+    
+    align-items: center;
+    box-shadow:1px -0px;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+}
